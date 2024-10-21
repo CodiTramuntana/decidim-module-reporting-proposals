@@ -54,6 +54,21 @@ en:
               of proposals. Leave it to zero to disable this feature.
       reporting_proposals:
         name: Reporting proposals
+        actions:
+          amend: Amend
+          answer_proposal: Answer proposal
+          comment: Comment
+          create: Create
+          edit_proposal: Edit proposal
+          endorse: Endorse
+          import: Import proposals from another component
+          new: New proposal
+          participatory_texts: Participatory texts
+          show: Show proposal
+          title: Actions
+          vote: Support
+          vote_comment: Vote comment
+          withdraw: Withdraw
         settings:
           global:
             additional_button_for_show_proposal_link: Additional action button after
